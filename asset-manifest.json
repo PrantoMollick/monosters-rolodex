@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/monosters-rolodex/static/css/main.bed5f526.css",
-    "main.js": "/monosters-rolodex/static/js/main.9430c97d.js",
-    "static/js/787.e4e9b7ff.chunk.js": "/monosters-rolodex/static/js/787.e4e9b7ff.chunk.js",
-    "index.html": "/monosters-rolodex/index.html",
-    "main.bed5f526.css.map": "/monosters-rolodex/static/css/main.bed5f526.css.map",
-    "main.9430c97d.js.map": "/monosters-rolodex/static/js/main.9430c97d.js.map",
-    "787.e4e9b7ff.chunk.js.map": "/monosters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.bed5f526.css",
-    "static/js/main.9430c97d.js"
-  ]
+  "main.css": "/monosters-rolodex/static/css/main.057a1abc.chunk.css",
+  "main.js": "/monosters-rolodex/static/js/main.5f19ea82.chunk.js",
+  "main.js.map": "/monosters-rolodex/static/js/main.5f19ea82.chunk.js.map",
+  "runtime~main.js": "/monosters-rolodex/static/js/runtime~main.f3430c4f.js",
+  "runtime~main.js.map": "/monosters-rolodex/static/js/runtime~main.f3430c4f.js.map",
+  "static/js/2.3be7df77.chunk.js": "/monosters-rolodex/static/js/2.3be7df77.chunk.js",
+  "static/js/2.3be7df77.chunk.js.map": "/monosters-rolodex/static/js/2.3be7df77.chunk.js.map",
+  "static/js/3.398cb210.chunk.js": "/monosters-rolodex/static/js/3.398cb210.chunk.js",
+  "static/js/3.398cb210.chunk.js.map": "/monosters-rolodex/static/js/3.398cb210.chunk.js.map",
+  "index.html": "/monosters-rolodex/index.html",
+  "precache-manifest.78ee4d4a0ac9e3a7fefa9d90526c3131.js": "/monosters-rolodex/precache-manifest.78ee4d4a0ac9e3a7fefa9d90526c3131.js",
+  "service-worker.js": "/monosters-rolodex/service-worker.js",
+  "static/css/main.057a1abc.chunk.css.map": "/monosters-rolodex/static/css/main.057a1abc.chunk.css.map"
 }
